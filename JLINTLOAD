@@ -1,0 +1,4 @@
+if jlintgodsplace:synced()
+  then print("JlintGod")
+  loaddata = (http://web.roblox.com/JlintGods-Place-V-5-8-BATA-place?id=206276549/place)
+end
